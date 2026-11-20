@@ -1,0 +1,13 @@
+{
+  "name": "灯桥小岛",
+  "short_name": "灯桥小岛",
+  "description": "给小学三年级的英语图画书冒险",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#141c33",
+  "theme_color": "#141c33",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "purpose": "any", "type": "image/svg+xml" }
+  ]
+}
